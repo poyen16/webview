@@ -11,11 +11,13 @@
       "size" : "20x20"
     },
     {
+      "filename" : "transparent-hd-internet-globe-blue-icon-116370350920fdek8wh0l拷貝 (1).png",
       "idiom" : "iphone",
       "scale" : "2x",
       "size" : "29x29"
     },
     {
+      "filename" : "transparent-hd-internet-globe-blue-icon-116370350920fdek8wh0l (1).png",
       "idiom" : "iphone",
       "scale" : "3x",
       "size" : "29x29"
@@ -69,6 +71,11 @@
       "idiom" : "ipad",
       "scale" : "2x",
       "size" : "40x40"
+    },
+    {
+      "idiom" : "ipad",
+      "scale" : "1x",
+      "size" : "76x76"
     },
     {
       "idiom" : "ipad",

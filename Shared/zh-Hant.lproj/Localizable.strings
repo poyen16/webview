@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  webview
+
+  Created by boncor chen on 2022/7/10.
+  
+*/
+"label1" = "歷史記錄";
+"label2" = "主頁";
+"label3" = "我的";
+"label4" = "你目前登入的使用者名稱為：";
+"label5" = "輸入網頁自訂名稱";
+"label6" = "輸入連結";
+"label7" = "搜尋";
+"label8" = "創建帳戶";
+"label9" = "輸入你的使用者名稱";
+"label10" = "輸入你的email";
+"label11" = "輸入你的密碼";
+"label12" = "提交";
+"label13" = "登入";
+"label14" = "請輸入所有欄位";
+"label15" = "依名稱排序";
+"label16" = "依日期排序";

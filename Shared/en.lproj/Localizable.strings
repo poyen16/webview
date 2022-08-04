@@ -1,0 +1,23 @@
+/* 
+  Localizable.strings
+  webview
+
+  Created by boncor chen on 2022/7/10.
+  
+*/
+"label1" = "History";
+"label2" = "Home";
+"label3" = "My Links";
+"label4" = "You are signed in as: ";
+"label5" = "Enter name of your website";
+"label6" = "Enter the link";
+"label7" = "Search";
+"label8" = "Create Account";
+"label9" = "Enter your username";
+"label10" = "Enter your email";
+"label11" = "Enter your password";
+"label12" = "Submit";
+"label13" = "Login";
+"label14" = "Please fill all the contents properly";
+"label15" = "Sort by Name";
+"label16" = "Sort by Date";
